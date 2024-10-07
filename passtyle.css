@@ -1,0 +1,17 @@
+.box{
+    margin:210px;
+    width: 30%;
+    height:7%;
+    background-color: white;
+    padding: 7px 20px;
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+
+}
+.box input{
+    outline:0;
+    width: 100%;
+    border: 0;
+    font-size: larger;
+}
